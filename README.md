@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         My name is Kunlun Zhu (朱昆仑), a research assistant in Tsinghua University Natural Language Processing Lab & BAAI. My research interests are NLP & DRL. I received my bachelor degree from Sun Yat-Sen University in 2020.
     </p>
     </td>
-    <td width="50%" padding="0">
+    <td width="80%" padding="0">
         <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=Kunlun-Zhu&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Kunlun-Zhu" /> </p>
     </td>
    </tr>
