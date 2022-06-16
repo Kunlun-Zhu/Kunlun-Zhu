@@ -25,9 +25,6 @@ Here are some ideas to get you started:
     <td width="40%">
         <a href="https://github.com/Kunlun-Zhu/Kunlun-Zhu.github.io/blob/master/images/profile.png"><img alt="Kunlun Zhu" src="https://github.com/Kunlun-Zhu/Kunlun-Zhu.github.io/blob/master/images/profile.png" width="100%"></a>
     </td>
-    <p>
-        My name is Kunlun Zhu (朱昆仑), a research assistant in Tsinghua University Natural Language Processing Lab & BAAI. My research interests are NLP & DRL. I received my bachelor degree from Sun Yat-Sen University in 2020.
-      </p>
     <td width="80%" padding="0">
         <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=Kunlun-Zhu&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="Kunlun-Zhu" /> </p>
     </td>
@@ -35,13 +32,4 @@ Here are some ideas to get you started:
 </tbody>
 </table>
     
-<table width="100%" cellspacing="12" margin="0" padding="0" cellpadding="0">
-<tbody>    
-    <td>
-       <p>
-        My name is Kunlun Zhu (朱昆仑), a research assistant in Tsinghua University Natural Language Processing Lab & BAAI. My research interests are NLP & DRL. I received my bachelor degree from Sun Yat-Sen University in 2020.
-      </p>
-    </td>
-</tbody>
-</table>
-    </p>
+
