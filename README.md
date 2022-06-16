@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <table width="100%" cellspacing="12" margin="0" padding="0" cellpadding="0">
 <tbody>
   <tr>
-    <td width="16%">
+    <td width="40%">
         <a href="https://github.com/Kunlun-Zhu/Kunlun-Zhu.github.io/blob/master/images/profile.png"><img alt="Kunlun Zhu" src="https://github.com/Kunlun-Zhu/Kunlun-Zhu.github.io/blob/master/images/profile.png" width="100%"></a>
     </td>
     <td>
