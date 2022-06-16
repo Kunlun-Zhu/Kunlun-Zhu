@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <table width="100%" cellspacing="12" margin="0" padding="0" cellpadding="0">
 <tbody>    
     <td>
-       <p>
+       <p align="middle" width="100%" padding="0">
         My name is Kunlun Zhu (朱昆仑), a research assistant in Tsinghua University Natural Language Processing Lab & BAAI. My research interests are NLP & DRL. I received my bachelor degree from Sun Yat-Sen University in 2020.
       </p>
     </td>
