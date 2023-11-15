@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> 
-  <a href="https://github.com/Kunlun-Zhu/Kunlun-Zhu/raw/main/Resume-Kunlun%20Zhu-4.6.pdf"> <img src="https://img.shields.io/badge/My-Resume-blue" height="25px" alt="Jinkun Cao">
-    </p>
+
 
 <table width="100%" cellspacing="12" margin="0" padding="0" cellpadding="0">
 <tbody>
